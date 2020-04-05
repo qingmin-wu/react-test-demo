@@ -11,3 +11,29 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.wrapper {
+  width: 80%;
+  margin: 10px auto;
+  font-size: 14px;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.comment-field-input-input {
+  border-radius: 3px;
+  border: 1px solid black;
+  width: 90%;
+  height: 26px;
+}
+.comment-field-textarea {
+  min-width: 90%;
+  min-height: 50px;
+  border: 1px solid balck;
+  border-radius: 3px;
+}
+.comment-field-button {
+  background: gray;
+  border-radius: 2px;
+}
