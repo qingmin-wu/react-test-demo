@@ -12,13 +12,13 @@ class CommentInput extends Component {
             </div>
             <div className='comment-field'>
               <span className='comment-field-name'>评论内容：</span>
-              <div>
+              <div className="comment-for-nothing">
                 <textarea className='comment-field-textarea'/>
               </div>
             </div>
             <div>
               <button className='comment-field-button'>
-                发布
+                发 布
               </button>
             </div>
           </div>
